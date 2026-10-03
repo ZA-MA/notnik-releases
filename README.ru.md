@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZA-MA/notnik-releases/releases/latest/download/Notnik_0.0.3_x64-setup.exe"><img alt="Скачать для Windows" src="https://img.shields.io/badge/Скачать-Windows%2064--bit-111111?style=for-the-badge"></a>
+  <a href="https://github.com/ZA-MA/notnik-releases/releases/latest/download/Notnik_0.0.4_x64-setup.exe"><img alt="Скачать для Windows" src="https://img.shields.io/badge/Скачать-Windows%2064--bit-111111?style=for-the-badge"></a>
   <a href="https://github.com/ZA-MA/notnik-releases/releases/latest"><img alt="Все релизы" src="https://img.shields.io/badge/Все-релизы-555555?style=for-the-badge"></a>
 </p>
 
@@ -21,7 +21,7 @@ Notnik (Нотник) — плеер для музыки, которая уже 
 
 ### Скачать
 
-- [Установщик для Windows, 64-bit, 0.0.3](https://github.com/ZA-MA/notnik-releases/releases/latest/download/Notnik_0.0.3_x64-setup.exe)
+- [Установщик для Windows, 64-bit, 0.0.4](https://github.com/ZA-MA/notnik-releases/releases/latest/download/Notnik_0.0.4_x64-setup.exe)
 - [Все релизы](https://github.com/ZA-MA/notnik-releases/releases/latest)
 
 Установщик пока без подписи кода, поэтому Windows может спросить подтверждение. Так и задумано.
