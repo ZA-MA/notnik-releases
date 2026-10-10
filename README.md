@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZA-MA/notnik-releases/releases/latest/download/Notnik_0.0.6_x64-setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%2064--bit-111111?style=for-the-badge"></a>
+  <a href="https://github.com/ZA-MA/notnik-releases/releases/latest/download/Notnik_0.0.7_x64-setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%2064--bit-111111?style=for-the-badge"></a>
   <a href="https://github.com/ZA-MA/notnik-releases/releases/latest"><img alt="All releases" src="https://img.shields.io/badge/All-releases-555555?style=for-the-badge"></a>
 </p>
 
@@ -21,7 +21,7 @@ Notnik is a desktop player for the music already on your computer, and for open 
 
 ### Download
 
-- [Windows 64-bit installer, 0.0.6](https://github.com/ZA-MA/notnik-releases/releases/latest/download/Notnik_0.0.6_x64-setup.exe)
+- [Windows 64-bit installer, 0.0.7](https://github.com/ZA-MA/notnik-releases/releases/latest/download/Notnik_0.0.7_x64-setup.exe)
 - [All releases](https://github.com/ZA-MA/notnik-releases/releases/latest)
 
 The installer is not code-signed yet, so Windows may ask you to confirm. That is expected.
